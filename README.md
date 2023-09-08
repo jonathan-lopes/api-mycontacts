@@ -1,6 +1,6 @@
 # API myContacts
 
-API para cadastrar, editar, deletar e categorizar seus contatos, essa API será consumida pela aplicação front-end disponível nesse [link](https://github.com/jonathan-lopes/mycontacts)
+API para cadastrar, editar, deletar e categorizar seus contatos, essa API será consumida pela aplicação front-end disponível nesse [link](https://github.com/jonathan-lopes/mycontacts).
 
 ## Rodando localmente
 
