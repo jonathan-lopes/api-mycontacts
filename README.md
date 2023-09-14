@@ -1,5 +1,12 @@
 # API myContacts
 
+<a href="https://gitmoji.dev">
+  <img
+    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+    alt="Gitmoji"
+  />
+</a>
+
 API para cadastrar, editar, deletar e categorizar seus contatos, essa API será consumida pela aplicação front-end disponível nesse [link](https://github.com/jonathan-lopes/mycontacts).
 
 ## Rodando localmente
